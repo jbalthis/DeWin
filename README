@@ -1,0 +1,8 @@
+* deWin.pl *
+
+Perl script to remove whitespace and unwanted characters from 
+file and directory names. Handy for *nix users that download files 
+and 'folders' from windows boxes in which users have just thrown 
+anything in their file and 'folder' names.
+
+-- by Jason Balthis
