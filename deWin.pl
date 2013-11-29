@@ -3,7 +3,7 @@
 #	deWin.pl                                                                  >	
 #	Perl Script to de-Win Directory Contents                                  >
 #	(i.e. Remove Whitespace, Special Characters, etc From File/Dir Names)     >
-#	by: Jason Balthis	11/27/2013                                        >
+#	by: Jason Balthis	11/27/2013                                            >
 #----------------------------------------------------------------------------->
 
 # Use target directory if user-specified
